@@ -1,1 +1,2 @@
-crytpo  site based on html css 
+crytpo  site based on html and css
+
